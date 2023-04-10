@@ -2,7 +2,7 @@ importScripts('js/sw-utils.js');
 const STATIC_CACHE = 'static-v2';
 const DYNAMIC_CACHE = 'dynamic-v1';
 const INMUTABLE_CACHE = 'inmutable-v1';
-// Adahir Osorio Lopez
+// José Angel Ponce Camacho, Manuel Roldan Canales
 const APP_SHELL = [
     // '/',
     'index.html',
